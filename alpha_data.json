@@ -1,0 +1,956 @@
+{
+  "shift_counter": 121,
+  "reports": [
+    {
+      "id": 1,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-25-101",
+      "time": "2026-04-25 13:16",
+      "shift_id": "ALPHA-2026-04-25-101",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 2,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-25 13:16",
+      "shift_id": "ALPHA-2026-04-25-101",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 3,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА!",
+      "time": "2026-04-25 13:16",
+      "shift_id": null,
+      "username": "admin",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 4,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-25 13:18",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 5,
+      "type": "Задержание",
+      "text": "Евкакий — КУРОЧКИН",
+      "time": "2026-04-25 13:24",
+      "shift_id": "N/A",
+      "username": "admin",
+      "clr": "#E74C3C"
+    },
+    {
+      "id": 6,
+      "type": "Задержание",
+      "text": "ващргфуадвшпорыфдвшпагофыдвгфыдвшнпаыф — фывдпорфыдвщгарцкугпрыдфшвоапрфыжвгарфыдвгорафывгрцугрыдшворафдышвгпрыдвшгарфыдвшгарыфдвшагфыдвшрфыв",
+      "time": "2026-04-25 13:25",
+      "shift_id": "N/A",
+      "username": "admin",
+      "clr": "#E74C3C"
+    },
+    {
+      "id": 7,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-25-102",
+      "time": "2026-04-25 13:25",
+      "shift_id": "ALPHA-2026-04-25-102",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 8,
+      "type": "Задержание",
+      "text": "ирвий бобиков — направил на человека свой ствол , и попытался застрелить человека потоком жидкости , мы его убили нафиг",
+      "time": "2026-04-25 13:26",
+      "shift_id": "ALPHA-2026-04-25-102",
+      "username": "admin",
+      "clr": "#E74C3C"
+    },
+    {
+      "id": 9,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-25 13:26",
+      "shift_id": "ALPHA-2026-04-25-102",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 10,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-25-103",
+      "time": "2026-04-25 13:26",
+      "shift_id": "ALPHA-2026-04-25-103",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 11,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-25 13:26",
+      "shift_id": "ALPHA-2026-04-25-103",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 12,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-25-104",
+      "time": "2026-04-25 13:38",
+      "shift_id": "ALPHA-2026-04-25-104",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 13,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-25 13:38",
+      "shift_id": "ALPHA-2026-04-25-104",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 14,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-25-105",
+      "time": "2026-04-25 14:02",
+      "shift_id": "ALPHA-2026-04-25-105",
+      "username": "Ohillson",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 15,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА!",
+      "time": "2026-04-25 14:02",
+      "shift_id": "ALPHA-2026-04-25-105",
+      "username": "Ohillson",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 16,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-25 14:03",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 17,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-25 14:03",
+      "shift_id": "ALPHA-2026-04-25-105",
+      "username": "Ohillson"
+    },
+    {
+      "id": 18,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-106",
+      "time": "2026-04-26 18:21",
+      "shift_id": "ALPHA-2026-04-26-106",
+      "username": "Kmour",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 19,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 18:21",
+      "shift_id": "ALPHA-2026-04-26-106",
+      "username": "Kmour",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 20,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-107",
+      "time": "2026-04-26 18:26",
+      "shift_id": "ALPHA-2026-04-26-107",
+      "username": "Etailor",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 21,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 18:26",
+      "shift_id": "ALPHA-2026-04-26-107",
+      "username": "Etailor",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 22,
+      "type": "ГБР Выезд",
+      "text": "Очень странные дела — ну просто ооочень странные , прям что не могу , гипер странные дела",
+      "time": "2026-04-26 18:27",
+      "shift_id": "N/A",
+      "username": "Etailor",
+      "clr": "#3498DB"
+    },
+    {
+      "id": 23,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА!",
+      "time": "2026-04-26 18:27",
+      "shift_id": null,
+      "username": "Etailor",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 24,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:28",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 25,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА!",
+      "time": "2026-04-26 18:31",
+      "shift_id": null,
+      "username": "Kmour",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 26,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:32",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 27,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА!",
+      "time": "2026-04-26 18:40",
+      "shift_id": null,
+      "username": "Etailor",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 28,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:41",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 29,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Энтони Тейлор",
+      "time": "2026-04-26 18:44",
+      "shift_id": null,
+      "username": "Etailor",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 30,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:44",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 31,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кевин Мур",
+      "time": "2026-04-26 18:48",
+      "shift_id": null,
+      "username": "Kmour",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 32,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:48",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 33,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кевин Мур",
+      "time": "2026-04-26 18:49",
+      "shift_id": null,
+      "username": "Kmour",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 34,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:49",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 35,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-108",
+      "time": "2026-04-26 18:49",
+      "shift_id": "ALPHA-2026-04-26-108",
+      "username": "Kmour",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 36,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кевин Мур",
+      "time": "2026-04-26 18:49",
+      "shift_id": "ALPHA-2026-04-26-108",
+      "username": "Kmour",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 37,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:49",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 38,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 18:50",
+      "shift_id": "ALPHA-2026-04-26-108",
+      "username": "Kmour",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 39,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кевин Мур",
+      "time": "2026-04-26 18:50",
+      "shift_id": null,
+      "username": "Kmour",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 40,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 18:50",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 41,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кевин Мур",
+      "time": "2026-04-26 18:51",
+      "shift_id": null,
+      "username": "Kmour"
+    },
+    {
+      "id": 42,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Администратор",
+      "time": "2026-04-26 22:37",
+      "shift_id": null,
+      "username": "admin",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 43,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-109",
+      "time": "2026-04-26 22:37",
+      "shift_id": "ALPHA-2026-04-26-109",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 44,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Администратор",
+      "time": "2026-04-26 22:37",
+      "shift_id": "ALPHA-2026-04-26-109",
+      "username": "admin",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 45,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-26 22:37",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 46,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 22:38",
+      "shift_id": "ALPHA-2026-04-26-109",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 47,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-110",
+      "time": "2026-04-26 22:52",
+      "shift_id": "ALPHA-2026-04-26-110",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 48,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 22:53",
+      "shift_id": "ALPHA-2026-04-26-110",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 49,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-111",
+      "time": "2026-04-26 22:55",
+      "shift_id": "ALPHA-2026-04-26-111",
+      "username": "admin",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 50,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 22:55",
+      "shift_id": "ALPHA-2026-04-26-111",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 51,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-112",
+      "time": "2026-04-26 22:56",
+      "shift_id": "ALPHA-2026-04-26-112",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 52,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 22:57",
+      "shift_id": "ALPHA-2026-04-26-112",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 53,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-113",
+      "time": "2026-04-26 22:57",
+      "shift_id": "ALPHA-2026-04-26-113",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 54,
+      "type": "О смене",
+      "text": "Сдал: 0.0ч",
+      "time": "2026-04-26 22:57",
+      "shift_id": "ALPHA-2026-04-26-113",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 55,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-26-114",
+      "time": "2026-04-26 22:59",
+      "shift_id": "ALPHA-2026-04-26-114",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 56,
+      "type": "О смене",
+      "text": "Сдал: 0ч 1мин",
+      "time": "2026-04-26 23:02",
+      "shift_id": "ALPHA-2026-04-26-114",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 57,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кенни Фостер",
+      "time": "2026-04-27 22:39",
+      "shift_id": null,
+      "username": "Kfoster",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 58,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-27 22:39",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 59,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-27-115",
+      "time": "2026-04-27 22:39",
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 60,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кенни Фостер",
+      "time": "2026-04-27 22:39",
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 61,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-27 22:40",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 62,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Кенни Фостер",
+      "time": "2026-04-27 22:40",
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 63,
+      "type": "О смене",
+      "text": "Сдал: 0ч 0мин",
+      "time": "2026-04-27 22:40",
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 64,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-27-116",
+      "time": "2026-04-27 22:40",
+      "shift_id": "ALPHA-2026-04-27-116",
+      "username": "Kfoster",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 65,
+      "type": "О смене",
+      "text": "Сдал: 0ч 0мин",
+      "time": "2026-04-27 22:40",
+      "shift_id": "ALPHA-2026-04-27-116",
+      "username": "Kfoster",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 66,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-27-117",
+      "time": "2026-04-27 22:41",
+      "shift_id": "ALPHA-2026-04-27-117",
+      "username": "Kfoster",
+      "clr": "#00B4D8"
+    },
+    {
+      "id": 67,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-04-27 22:41",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 68,
+      "type": "О смене",
+      "text": "Сдал: 0ч 0мин",
+      "time": "2026-04-27 22:41",
+      "shift_id": "ALPHA-2026-04-27-117",
+      "username": "Kfoster"
+    },
+    {
+      "id": 69,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-04-27-118",
+      "time": "2026-04-27 22:41",
+      "shift_id": "ALPHA-2026-04-27-118",
+      "username": "Kfoster"
+    },
+    {
+      "id": 70,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-05-11-119",
+      "time": "2026-05-11 13:58",
+      "shift_id": "ALPHA-2026-05-11-119",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 71,
+      "type": "О смене",
+      "text": "Сдал: 0ч 0мин",
+      "time": "2026-05-11 13:58",
+      "shift_id": "ALPHA-2026-05-11-119",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 72,
+      "type": "ТРЕВОГА",
+      "text": "🚨 ТРЕВОГА! Активировал: Администратор",
+      "time": "2026-05-11 14:03",
+      "shift_id": null,
+      "username": "admin",
+      "clr": "#FF0000"
+    },
+    {
+      "id": 73,
+      "type": "ТРЕВОГА",
+      "text": "🔇 Сброшена",
+      "time": "2026-05-11 14:04",
+      "shift_id": null,
+      "username": "system"
+    },
+    {
+      "id": 74,
+      "type": "О смене",
+      "text": "⛔ Админ закрыл смену: 0ч 2мин",
+      "time": "2026-05-11 14:15",
+      "shift_id": "ALPHA-2026-04-27-118",
+      "username": "Kfoster"
+    },
+    {
+      "id": 75,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-05-15-120",
+      "time": "2026-05-15 16:28",
+      "shift_id": "ALPHA-2026-05-15-120",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 76,
+      "type": "О смене",
+      "text": "⛔ Админ закрыл смену: 0ч 0мин",
+      "time": "2026-05-15 16:28",
+      "shift_id": "ALPHA-2026-05-15-120",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 77,
+      "type": "О смене",
+      "text": "Заступил: ALPHA-2026-05-15-121",
+      "time": "2026-05-15 16:32",
+      "shift_id": "ALPHA-2026-05-15-121",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 78,
+      "type": "О смене",
+      "text": "Сдал: 0ч 0мин",
+      "time": "2026-06-13 21:07",
+      "shift_id": "ALPHA-2026-05-15-121",
+      "username": "admin",
+      "clr": "#9c1010"
+    },
+    {
+      "id": 79,
+      "type": "Задержание",
+      "text": "(пусто)",
+      "time": "2026-08-10 13:11",
+      "shift_id": "N/A",
+      "username": "admin"
+    }
+  ],
+  "alarms": [
+    {
+      "time": "2026-04-25 13:16:42",
+      "active": false,
+      "shift_id": null
+    },
+    {
+      "time": "2026-04-25 14:02:49",
+      "active": false,
+      "shift_id": "ALPHA-2026-04-25-105"
+    },
+    {
+      "time": "2026-04-26 18:27:56",
+      "active": false,
+      "shift_id": null
+    },
+    {
+      "time": "2026-04-26 18:31:28",
+      "active": false,
+      "shift_id": null
+    },
+    {
+      "time": "2026-04-26 18:40:20",
+      "active": false,
+      "shift_id": null
+    },
+    {
+      "time": "2026-04-26 18:44:27",
+      "active": false,
+      "shift_id": null,
+      "username": "Etailor",
+      "full_name": "Энтони Тейлор"
+    },
+    {
+      "time": "2026-04-26 18:48:17",
+      "active": false,
+      "shift_id": null,
+      "username": "Kmour",
+      "full_name": "Кевин Мур"
+    },
+    {
+      "time": "2026-04-26 18:49:03",
+      "active": false,
+      "shift_id": null,
+      "username": "Kmour",
+      "full_name": "Кевин Мур"
+    },
+    {
+      "time": "2026-04-26 18:49:19",
+      "active": false,
+      "shift_id": "ALPHA-2026-04-26-108",
+      "username": "Kmour",
+      "full_name": "Кевин Мур"
+    },
+    {
+      "time": "2026-04-26 18:50:43",
+      "active": false,
+      "shift_id": null,
+      "username": "Kmour",
+      "full_name": "Кевин Мур"
+    },
+    {
+      "time": "2026-04-26 18:51:12",
+      "active": true,
+      "shift_id": null,
+      "username": "Kmour",
+      "full_name": "Кевин Мур"
+    },
+    {
+      "time": "2026-04-26 22:37:19",
+      "active": true,
+      "shift_id": null,
+      "username": "admin",
+      "full_name": "Администратор"
+    },
+    {
+      "time": "2026-04-26 22:37:54",
+      "active": false,
+      "shift_id": "ALPHA-2026-04-26-109",
+      "username": "admin",
+      "full_name": "Администратор"
+    },
+    {
+      "time": "2026-04-27 22:39:16",
+      "active": false,
+      "shift_id": null,
+      "username": "Kfoster",
+      "full_name": "Кенни Фостер"
+    },
+    {
+      "time": "2026-04-27 22:39:56",
+      "active": false,
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "full_name": "Кенни Фостер"
+    },
+    {
+      "time": "2026-04-27 22:40:51",
+      "active": false,
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "full_name": "Кенни Фостер"
+    },
+    {
+      "time": "2026-05-11 14:03:24",
+      "active": false,
+      "shift_id": null,
+      "username": "admin",
+      "full_name": "Администратор"
+    }
+  ],
+  "shift_history": [
+    {
+      "shift_id": "ALPHA-2026-04-25-101",
+      "username": "admin",
+      "start": "2026-04-25 13:16",
+      "end": "2026-04-25 13:16",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-25-102",
+      "username": "admin",
+      "start": "2026-04-25 13:25",
+      "end": "2026-04-25 13:26",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-25-103",
+      "username": "admin",
+      "start": "2026-04-25 13:26",
+      "end": "2026-04-25 13:26",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-25-104",
+      "username": "admin",
+      "start": "2026-04-25 13:38",
+      "end": "2026-04-25 13:38",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-25-105",
+      "username": "Ohillson",
+      "start": "2026-04-25 14:02",
+      "end": "2026-04-25 14:03",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-106",
+      "username": "Kmour",
+      "start": "2026-04-26 18:21",
+      "end": "2026-04-26 18:21",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-107",
+      "username": "Etailor",
+      "start": "2026-04-26 18:26",
+      "end": "2026-04-26 18:26",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-108",
+      "username": "Kmour",
+      "start": "2026-04-26 18:49",
+      "end": "2026-04-26 18:50",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-109",
+      "username": "admin",
+      "start": "2026-04-26 22:37",
+      "end": "2026-04-26 22:38",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-110",
+      "username": "admin",
+      "start": "2026-04-26 22:52",
+      "end": "2026-04-26 22:53",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-111",
+      "username": "admin",
+      "start": "2026-04-26 22:55",
+      "end": "2026-04-26 22:55",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-112",
+      "username": "admin",
+      "start": "2026-04-26 22:56",
+      "end": "2026-04-26 22:57",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-113",
+      "username": "admin",
+      "start": "2026-04-26 22:57",
+      "end": "2026-04-26 22:57",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-26-114",
+      "username": "admin",
+      "start": "2026-04-26 22:59",
+      "end": "2026-04-26 23:02",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-27-115",
+      "username": "Kfoster",
+      "start": "2026-04-27 22:39",
+      "end": "2026-04-27 22:40",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-27-116",
+      "username": "Kfoster",
+      "start": "2026-04-27 22:40",
+      "end": "2026-04-27 22:40",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-27-117",
+      "username": "Kfoster",
+      "start": "2026-04-27 22:41",
+      "end": "2026-04-27 22:41",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-05-11-119",
+      "username": "admin",
+      "start": "2026-05-11 13:58",
+      "end": "2026-05-11 13:58",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-04-27-118",
+      "username": "Kfoster",
+      "start": "2026-04-27 22:41",
+      "end": "2026-05-11 14:15",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-05-15-120",
+      "username": "admin",
+      "start": "2026-05-15 16:28",
+      "end": "2026-05-15 16:28",
+      "hours": 0.0
+    },
+    {
+      "shift_id": "ALPHA-2026-05-15-121",
+      "username": "admin",
+      "start": "2026-05-15 16:32",
+      "end": "2026-06-13 21:07",
+      "hours": 0.0
+    }
+  ],
+  "active_shifts": {}
+}

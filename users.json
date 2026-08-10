@@ -1,0 +1,49 @@
+{
+  "admin": {
+    "password": "adminAlpharolesigma",
+    "full_name": "Администратор",
+    "role": "admin"
+  },
+  "imitchell": {
+    "password": "12345678910Hps",
+    "full_name": "Ирвин Митчелл",
+    "role": "admin"
+  },
+  "Bwellis": {
+    "password": "123",
+    "full_name": "Брентон Уиллис",
+    "role": "admin"
+  },
+  "Ohillson": {
+    "password": "123",
+    "full_name": "Остин Хиллсон",
+    "role": "guard"
+  },
+  "Etailor": {
+    "password": "123",
+    "full_name": "Энтони Тейлор",
+    "role": "guard"
+  },
+    "Kfoster": {
+    "password": "4573458",
+    "full_name": "Кенни Фостер",
+    "role": "guard"
+  },
+  "Okrovli": {
+    "password": "123",
+    "full_name": "Оливер Кровли",
+    "role": "guard"
+  },
+  "Kmour": {
+    "password": "123",
+    "full_name": "Кевин Мур",
+    "role": "guard"
+  },
+  "Vgervald": {
+    "password": "123",
+    "full_name": "Вильгельм Фон Гервальд",
+    "role": "guard"
+    }
+
+
+}
